@@ -104,6 +104,7 @@ article > p{
 article > strong::before{
     content: '🖈';
 }
+
 section{
     padding: none;
 }
@@ -175,6 +176,7 @@ font-family: 'idroid';
 }
 .plus > ul{
     columns:2;
+   
 }
 abbr{
     text-decoration-line: none;
